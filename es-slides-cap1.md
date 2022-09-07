@@ -262,7 +262,7 @@ if (condicao) {
 
 ## Processos de Desenvolvimento de Software
 
-![width:733px height:569px](waterfall.jpg)
+![width:655px height:450px](waterfall.svg)
 
 ---
 
@@ -285,7 +285,7 @@ if (condicao) {
 
 ## Modelos de Software
 
-![width:1185px height:363px](uml.jpg)
+![width:1185px height:363px](uml.svg)
 
 ---
 
