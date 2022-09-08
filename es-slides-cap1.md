@@ -93,7 +93,7 @@ ISBN: 978-65-00-01950-6
 
 - Requisitos definem *o que* um sistema deve fazer e *como* ele deve operar. Podem ser funcionais e não-funcionais
   - Funcionais: definem *o que* o sistema deve fazer, isto é, quais funcionalidades e serviços ele deve implementar. Ex.: controle de estoque, cálculo de impostos, controle de localização de um foguete
-  - Não-funcionais: definem *como* um sistema deve operar. Ex: desempenho, disponibilidade, tolerância a falhas, segurança, privacidade, interoperabilidade, capacidade e usabilidade.
+  - Não-funcionais: definem *como* um sistema deve operar. Ex.: desempenho, disponibilidade, tolerância a falhas, segurança, privacidade, interoperabilidade, capacidade e usabilidade.
 
 ---
 
@@ -262,7 +262,7 @@ if (condicao) {
 
 ## Processos de Desenvolvimento de Software
 
-![width:655px height:450px](waterfall.svg)
+![width:655px height:500px](waterfall.svg)
 
 ---
 
