@@ -9,14 +9,15 @@ footer: Engenharia de Software - Fabrício Barros Cabral <<fabricio.cabral@ead.i
 <!-- _paginate: false -->
 # **Engenharia de Software**
 
-Capítulo 1
+## Capítulo 1 - Introdução
 
 ---
 
 ## Livro-texto
 
-Material de aula (e slides) baseados no livro **Engenharia de Software Moderna** de Marco Tulio Valente
+Slides baseados no conteúdo do livro **Engenharia de Software Moderna** de Marco Tulio Valente
 ISBN: 978-65-00-01950-6
+Site: https://engsoftmoderna.info
 
 ---
 
