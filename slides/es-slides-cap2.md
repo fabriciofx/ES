@@ -120,9 +120,9 @@ Site: https://engsoftmoderna.info
 ## Princípios de XP
 
 - Falhas Acontecem
+  - Falhas fazem parte do jogo e não devem ser usadas para punir membros de um time
 - Melhorias Contínuas
   - O sistema deve ser continuamente aprimorado, a cada iteração, com o feedback dos clientes de todos os membros do time
-  - Falhas fazem parte do jogo e não devem ser usadas para punir membros de um time
 - Baby Steps
   - Pequenas melhorias são melhores que grandes revoluções
 
@@ -207,7 +207,7 @@ Site: https://engsoftmoderna.info
 ## Scrum
 
 - Scrum
-  - Método ágio, iterativo e incremental para gerenciamento de projetos
+  - Método ágil, iterativo e incremental para gerenciamento de projetos
     - Não necessariamente projetos de software
   - Papéis
     - Dono do produto, Scrum Master e Desenvolvedor
@@ -421,4 +421,3 @@ WIP(especificação) = ceil(TP * LT) = ceil(0.38 * 5) = ceil(1.9) = 2
 ## Processo Unificado (UP) ou (RUP)
 
 ![center width:25cm](rup2.png)
-
