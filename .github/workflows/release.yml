@@ -1,0 +1,16 @@
+---
+name: release
+on:
+  push:
+    tags:
+      - [0-9].[0-9].[0-9]
+jobs:
+  marp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+      - run: npm install marp-cli
+      - run: marp *.md --pdf --allow-local-files
