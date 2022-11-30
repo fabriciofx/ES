@@ -245,7 +245,7 @@ Pesquisar por livros cadastrados na biblioteca desde uma data até a data atual
 
 ## Diagrama de Casos de Uso
 
-![center width:12cm](diagrama-caso-uso.svg)
+![center width:12cm](imagens/diagrama-caso-uso.svg)
 
 ---
 
@@ -261,7 +261,7 @@ Pesquisar por livros cadastrados na biblioteca desde uma data até a data atual
 
 ## Método Sistemático para Construção e Validação de MVPs
 
-![center](lean.svg)
+![center](imagens/lean.svg)
 
 ---
 

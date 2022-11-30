@@ -68,7 +68,7 @@ Site: https://engsoftmoderna.info
 
 ## Arquitetura em Três Camadas
 
-![center width:20cm](tiers3.svg)
+![center width:20cm](imagens/tiers3.svg)
 
 ---
 
@@ -94,7 +94,7 @@ Site: https://engsoftmoderna.info
 
 ## Arquitetura MVC (Model-View-Controller)
 
-![center width:18cm](mvc.svg)
+![center width:18cm](imagens/mvc.svg)
 
 ---
 
@@ -111,7 +111,7 @@ Site: https://engsoftmoderna.info
 
 - MVC: Smalltalk-80; Web: três camadas
 
-![center width:18cm](mvc-web.svg)
+![center width:18cm](imagens/mvc-web.svg)
 
 ---
 
@@ -173,7 +173,7 @@ var model = new Vue({
 - Devem ser autônomos também do ponto de vista de dados, devendo gerenciar os dados de que precisam para prover o seu serviço
   - Um único banco de dados por se transformar em um gargalo à evolução do sistema
 
-![center width:13cm](dados12.png)
+![center width:13cm](imagens/dados12.png)
 
 ---
 
@@ -196,8 +196,8 @@ var model = new Vue({
 
 ## Arquiteturas Orientadas a Mensagens
 
-![center width:20cm](mom.svg)
-![center width:20cm](mom2.svg)
+![center width:20cm](imagens/mom.svg)
+![center width:20cm](imagens/mom2.svg)
 
 ---
 
@@ -220,7 +220,7 @@ var model = new Vue({
 
 ## Arquiteturas Publish/Subscribe
 
-![center width:20cm](pubsub.svg)
+![center width:20cm](imagens/pubsub.svg)
 
 ---
 
@@ -254,7 +254,7 @@ var model = new Vue({
 
 ## Arquiteturas Publish/Subscribe
 
-![center](ciaaerea.svg)
+![center](imagens/ciaaerea.svg)
 
 ---
 
@@ -272,6 +272,6 @@ var model = new Vue({
   - Explosão de dependências
   - Manutenção muito difícil e arriscada
 
-![center width:7cm](big-ball-mud.svg)
+![center width:7cm](imagens/big-ball-mud.svg)
 
 

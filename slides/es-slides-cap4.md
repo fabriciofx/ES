@@ -102,7 +102,7 @@ Site: https://engsoftmoderna.info
 - Oferecem uma representação gráfica para um conjunto de classes, provendo informações sobre atributos, métodos e relacionamentos que existem entre as classes modeladas
 - Tipos de relacionamentos: **associação**, **herança** e **dependência**
 
-![center](class1.svg)
+![center](imagens/class1.svg)
 
 ---
 
@@ -110,7 +110,7 @@ Site: https://engsoftmoderna.info
 
 - Quando uma classe `A` possui um atributo `b` de um tipo `B`, dizemos que existe uma associação de `A` para `B`, a qual é representada por meio de uma seta de `A`para `B`
 
-![center width:20cm](class2.svg)
+![center width:20cm](imagens/class2.svg)
 
 ---
 
@@ -136,7 +136,7 @@ class B {
 
 - O objetivo é deixar claro o atributo pertence a `Pessoa`, mas ele "aponta" para um objeto do tipo `Fone`
 
-![center](class3.svg)
+![center](imagens/class3.svg)
 
 ---
 
@@ -164,7 +164,7 @@ class Fone {
 
 ## Multiplicidade em Associações
 
-![center width:30cm](class4.svg)
+![center width:30cm](imagens/class4.svg)
 
 ---
 
@@ -185,7 +185,7 @@ class Fone {
 
 ## Multiplicidade em Associações
 
-![center width:30cm](class5.svg)
+![center width:30cm](imagens/class5.svg)
 
 ---
 
@@ -206,7 +206,7 @@ class Fone {
 
 ## Associação Bidirecional
 
-![center width:30cm](class7.svg)
+![center width:30cm](imagens/class7.svg)
 
 ---
 
@@ -236,7 +236,7 @@ class Fone {
 
 ## Herança
 
-![center width:24cm](class10.svg)
+![center width:24cm](imagens/class10.svg)
 
 ---
 
@@ -251,7 +251,7 @@ class Fone {
 
 ## Dependência
 
-![center width:20cm](class9.svg)
+![center width:20cm](imagens/class9.svg)
 
 ---
 
@@ -284,7 +284,7 @@ class MinhaClasse {
 
 ## Diagrama de Pacotes
 
-![center width:11cm](package1.svg)
+![center width:11cm](imagens/package1.svg)
 
 ---
 
@@ -298,7 +298,7 @@ class MinhaClasse {
 
 ## Diagramas de Sequência
 
-![center width:12cm](sequence1.svg)
+![center width:12cm](imagens/sequence1.svg)
 
 ---
 
@@ -325,7 +325,7 @@ class A {
 
 ## Diagramas de Sequência
 
-![center width:18cm](sequence3.svg)
+![center width:18cm](imagens/sequence3.svg)
 
 ---
 
@@ -339,7 +339,7 @@ class A {
 
 ## Diagramas de Atividades
 
-![center width:5cm](activity01.svg)
+![center width:5cm](imagens/activity01.svg)
 
 ---
 
@@ -347,7 +347,7 @@ class A {
 
 - **Nodo Inicial**: Dá início à execução do processo
 
-![center width:5cm](activity-t-inicial.svg)
+![center width:5cm](imagens/activity-t-inicial.svg)
 
 ---
 
@@ -355,7 +355,7 @@ class A {
 
 - **Ações**: Possui um único fluxo de entrada e um único fluxo de saída
 
-![center width:8cm](activity-t-acao.svg)
+![center width:8cm](imagens/activity-t-acao.svg)
 
 ---
 
@@ -363,7 +363,7 @@ class A {
 
 - **Decisões:** Possui um único fluxo de entrada e dois ou mais de saída. Cada fluxo de saída possui uma variável booleana associada, chamada de guarda
 
-![center width:13cm](activity-t-decisao.svg)
+![center width:13cm](imagens/activity-t-decisao.svg)
 
 ---
 
@@ -371,7 +371,7 @@ class A {
 
 - **Merges**: Possui vários fluxos de entrada mas um único de saída. São usados para unir os fluxos de nodos de decisão
 
-![center width:10cm](activity-t-merge.svg)
+![center width:10cm](imagens/activity-t-merge.svg)
 
 ---
 
@@ -379,7 +379,7 @@ class A {
 
 - **Forks**: Possuem um único fluxo de entrada e um ou mais fluxos de saída. Representam múltiplos processos em execução de forma paralela
 
-![center width:8cm](activity-t-fork.svg)
+![center width:8cm](imagens/activity-t-fork.svg)
 
 ---
 
@@ -387,7 +387,7 @@ class A {
 
 - **Joins**: Possuem vários fluxos de entrada, mas um único fluxo de saída. São usados para sincronizar processos, transformando vários fluxos de execução em um único fluxo
 
-![center width:8cm](activity-t-join.svg)
+![center width:8cm](imagens/activity-t-join.svg)
 
 ---
 
@@ -395,5 +395,5 @@ class A {
 
 - **Nodo Final**: Encerra a execução do diagrama de atividades
 
-![center width:5cm](activity-t-final.svg)
+![center width:5cm](imagens/activity-t-final.svg)
 

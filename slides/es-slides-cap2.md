@@ -68,9 +68,9 @@ Site: https://engsoftmoderna.info
 
 ## Manifesto Ágil
 
-![center ](waterfall2.svg)
+![center ](imagens/waterfall2.svg)
 
-![center](agile.svg)
+![center](imagens/agile.svg)
 
 ---
 
@@ -259,7 +259,7 @@ Site: https://engsoftmoderna.info
 
 - Quadro Scrum
 
-![center width:20cm](scrum-board.svg)
+![center width:20cm](imagens/scrum-board.svg)
 
 ---
 
@@ -267,7 +267,7 @@ Site: https://engsoftmoderna.info
 
 - Gráfico de Burndown
 
-![center width:23cm](burndown.svg)
+![center width:23cm](imagens/burndown.svg)
 
 
 ---
@@ -329,8 +329,8 @@ Retrospectiva          | máximo de 3 horas
 
 ## Kanban
 
-![center width:25cm](kanban1.png)
-![center width:25cm](kanban2-sublinhado.png)
+![center width:25cm](imagens/kanban1.png)
+![center width:25cm](imagens/kanban2-sublinhado.png)
 
 ---
 
@@ -339,7 +339,7 @@ Retrospectiva          | máximo de 3 horas
 - Evitar que os times Kanban fiquem sobrecarregados
   - Soma-se a quantidade de linhas nas sub-colunas e estas não devem exceder o limite WIP 
 
-![center width:25cm](kanban3.png)
+![center width:25cm](imagens/kanban3.png)
 
 ---
 
@@ -396,7 +396,7 @@ WIP(especificação) = ceil(TP * LT) = ceil(0.38 * 5) = ceil(1.9) = 2
 
 - Modelo em Espiral
 
-![center width:14cm](espiral.jpeg)
+![center width:14cm](imagens/espiral.jpeg)
 
 ---
 
@@ -414,10 +414,10 @@ WIP(especificação) = ceil(TP * LT) = ceil(0.38 * 5) = ceil(1.9) = 2
 
 ## Processo Unificado (UP) ou (RUP)
 
-![center](rup1.svg)
+![center](imagens/rup1.svg)
 
 ---
 
 ## Processo Unificado (UP) ou (RUP)
 
-![center width:25cm](rup2.png)
+![center width:25cm](imagens/rup2.png)
