@@ -1,0 +1,9 @@
+Aula 1 (14/09/2022 a 20/09/2022) - Introdução à Engenharia de Software
+Aula 2 (21/09/2022 a 27/09/2022) - Processos
+Aula 3 (28/09/2022 a 04/10/2022) - Requisitos
+Aula 4 (05/10/2022 a 11/10/2022) - Modelos
+Aula 5 (12/10/2022 a 18/10/2022) - Princípios de Projeto
+Aula 6 (19/10/2022 a 25/10/2022) - Padrões de Projeto
+Aula 7 (26/10/2022 a 01/11/2022) - Arquitetura
+Aula 8 (02/11/2022 a 08/11/2022) - Testes
+
